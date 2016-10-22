@@ -1,0 +1,17 @@
+{
+  "name": "oakwoodchapel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Avin Bond <avin.bond@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "selenium-standalone": "5.7.2",
+    "webdrivercss": "2.0.0-beta-rc1",
+    "webdriverio": "4.2.16"
+  }
+}
